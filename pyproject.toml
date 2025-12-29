@@ -1,0 +1,12 @@
+[project]
+name = "computer-vision"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "cv>=1.0.0",
+    "jupyter>=1.1.1",
+    "notebook>=7.5.1",
+    "opencv-contrib-python>=4.12.0.88",
+]
